@@ -2,7 +2,7 @@
 
 DolphinScheduler Improvement Proposal(DSIP) introduce major improvements to the Apache DolphinScheduler codebase. It is
 not for small incremental improvements, and the purpose of DSIP is to notice and inform community the finished or coming
-big feature for Apache DolphinScheduler.
+big feature for Apache DolphinScheduler. 
 
 ## What is considered as DSIP
 
